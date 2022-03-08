@@ -1,5 +1,5 @@
 # Description
-PoC minimalist docker container from scratch
+PoC minimalistic docker container build from scratch
 
 # Compile binary
 Compile binary in static mode
